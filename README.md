@@ -1,2 +1,2 @@
-# ocean-utilities
-A repository containing various tools to analyze and process ocean data, including Jupyter Notebooks
+# ocean-boundaries
+A repository containing the boundaries of the oceans as polygons, including Jupyter Notebooks for visualization and usecases.
